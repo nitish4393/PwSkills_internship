@@ -1,1 +1,3 @@
 # PwSkills_internship
+
+[DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiY2VhYmIxYmUtZjc1OS00YjRiLWI5NzYtMzI0OWJjZjlhMWRjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
